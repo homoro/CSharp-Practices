@@ -3,10 +3,11 @@
 namespace CSharp_Practices
 {
     class Program
-    {
+    { 
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello CSharp version 7 !"); 
+
         }
     }
 }
